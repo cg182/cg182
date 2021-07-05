@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chris  (@cg182)
+- 👀 I’m interested in information security, web development, software development, music, cycling, and many other things.
+- 🌱 I’m currently studying part-time towards a degree in cyber-security, and learning a variety of skills in networking, automation, web & software design/development.
+- 📖 I'm currently practicing a variety of languages (Python, HTML, CSS, Javascript...) and have been setting myself small challenges to further my development.
+- 📫 You can reach me by email @ chrisgoodedrums@gmail.com
